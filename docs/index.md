@@ -17,6 +17,6 @@ Arnhem heeft enkele officiële discord servers, als een server hieronder staat. 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 |Arnhem RolePlay| Main discord server van Arnhem | [Invite](https://discord.gg/arnhem) |
-|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/NBkEzajUP8) |
+|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/CwqQGDWRhN) |
 |Arnhem Onderwereld| Onderwereld discord server van Arnhem | [Invite](https://discord.gg/gm2eerEgYP) |
 |Arnhem Overheid| Overheid discord server van Arnhem | [Invite](https://discord.gg/nWctGE3vy7) |
