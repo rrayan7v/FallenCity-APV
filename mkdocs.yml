@@ -1,17 +1,17 @@
-site_name: Arnhem - Wet en Regels
+site_name: Legacy - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
-repo_url: 'https://github.com/nickvmeurs/Arnhem-APV'
-repo_name: 'Arnhem-APV'
+repo_url: 'https://github.com/nickvmeurs/Legacy-APV'
+repo_name: 'Legacy-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/arnhem
+      link: https://discord.gg/legacynl
 theme:
   language: nl
   name: material
-  logo: assets/arnhem.png
-  favicon: assets/arnhem.png
+  logo: assets/Legacy.png
+  favicon: assets/Legacy.png
   features:
     - header.autohide
   palette: 

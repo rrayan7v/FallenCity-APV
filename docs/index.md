@@ -1,8 +1,8 @@
 # Home
 
-## Wetboek en server regels Arnhem RP
+## Wetboek en server regels Legacy RP
 
-In het menu aan de linkerkant vind je alle verschillende documenten die op Arnhem toepassen
+In het menu aan de linkerkant vind je alle verschillende documenten die op Legacy toepassen
 
 Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
@@ -12,11 +12,11 @@ Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
 ## Officiële discord servers
 
-Arnhem heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
+Legacy heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Arnhem RolePlay| Main discord server van Arnhem | [Invite](https://discord.gg/arnhem) |
-|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/CwqQGDWRhN) |
-|Arnhem Onderwereld| Onderwereld discord server van Arnhem | [Invite](https://discord.gg/gm2eerEgYP) |
-|Arnhem Overheid| Overheid discord server van Arnhem | [Invite](https://discord.gg/nWctGE3vy7) |
+|Legacy RolePlay| Main discord server van Legacy | [Invite](https://discord.gg/legacynl) |
+|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/CwqQGDWRhN) |
+|Legacy Onderwereld| Onderwereld discord server van Legacy | [Invite](https://discord.gg/gm2eerEgYP) |
+|Legacy Overheid| Overheid discord server van Legacy | [Invite](https://discord.gg/nWctGE3vy7) |
