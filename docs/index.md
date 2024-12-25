@@ -17,6 +17,6 @@ Legacy heeft enkele officiële discord servers, als een server hieronder staat. 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 |Legacy RolePlay| Main discord server van Legacy | [Invite](https://discord.gg/legacynl) |
-|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/CwqQGDWRhN) |
+|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/rv4gWRSxcg) |
 |Legacy Onderwereld| Onderwereld discord server van Legacy | [Invite](https://discord.gg/gm2eerEgYP) |
 |Legacy Overheid| Overheid discord server van Legacy | [Invite](https://discord.gg/nWctGE3vy7) |
