@@ -10,8 +10,8 @@ extra:
 theme:
   language: nl
   name: material
-  logo: assets/Legacy.png
-  favicon: assets/Legacy.png
+  logo: assets/legacy.png
+  favicon: assets/legacy.png
   features:
     - header.autohide
   palette: 
