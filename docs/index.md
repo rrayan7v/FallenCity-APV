@@ -19,5 +19,4 @@ Eindhoven heeft enkele officiële discord servers, als een server hieronder staa
 |Eindhoven RolePlay| Main discord server van Eindhoven | [Invite](https://discord.gg/ehrp) |
 |Eindhoven Support| Support discord server van Eindhoven | [Invite](https://discord.gg/rv4gWRSxcg) |
 |Eindhoven Onderwereld| Onderwereld discord server van Eindhoven | [Invite](https://discord.gg/DJnDmvmhZR) |
-|Eindhoven Overheid| Overheid discord server van Eindhoven | [Invite](https://discord.gg/vqnNmUYacC
-) |
+|Eindhoven Overheid| Overheid discord server van Eindhoven | [Invite](https://discord.gg/vqnNmUYacC) |
