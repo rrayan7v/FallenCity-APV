@@ -1,17 +1,17 @@
-site_name: Legacy - Wet en Regels
+site_name: Eindhoven - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
-repo_url: 'https://github.com/nickvmeurs/Legacy-APV'
-repo_name: 'Legacy-APV'
+repo_url: 'https://github.com/nickvmeurs/Eindhoven-APV'
+repo_name: 'Eindhoven-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/legacynl
+      link: https://discord.gg/ehrp
 theme:
   language: nl
   name: material
-  logo: assets/legacy.png
-  favicon: assets/legacy.png
+  logo: assets/eindhoven.png
+  favicon: assets/eindhoven.png
   features:
     - header.autohide
   palette: 

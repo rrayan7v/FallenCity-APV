@@ -1,8 +1,8 @@
 # Home
 
-## Wetboek en server regels Legacy RP
+## Wetboek en server regels Eindhoven RP
 
-In het menu aan de linkerkant vind je alle verschillende documenten die op Legacy toepassen
+In het menu aan de linkerkant vind je alle verschillende documenten die op Eindhoven toepassen
 
 Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
@@ -12,11 +12,12 @@ Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
 ## Officiële discord servers
 
-Legacy heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
+Eindhoven heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Legacy RolePlay| Main discord server van Legacy | [Invite](https://discord.gg/legacynl) |
-|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/rv4gWRSxcg) |
-|Legacy Onderwereld| Onderwereld discord server van Legacy | [Invite](https://discord.gg/gm2eerEgYP) |
-|Legacy Overheid| Overheid discord server van Legacy | [Invite](https://discord.gg/nWctGE3vy7) |
+|Eindhoven RolePlay| Main discord server van Eindhoven | [Invite](https://discord.gg/ehrp) |
+|Eindhoven Support| Support discord server van Eindhoven | [Invite](https://discord.gg/rv4gWRSxcg) |
+|Eindhoven Onderwereld| Onderwereld discord server van Eindhoven | [Invite](https://discord.gg/DJnDmvmhZR) |
+|Eindhoven Overheid| Overheid discord server van Eindhoven | [Invite](https://discord.gg/vqnNmUYacC
+) |
