@@ -6,7 +6,7 @@ repo_name: 'Arnhem-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/arnhemrp
+      link: https://discord.gg/arnhem
 theme:
   language: nl
   name: material
