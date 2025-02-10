@@ -1,8 +1,8 @@
 # Home
 
-## Wetboek en server regels Eindhoven RP
+## Wetboek en server regels Arnhem RP
 
-In het menu aan de linkerkant vind je alle verschillende documenten die op Eindhoven toepassen
+In het menu aan de linkerkant vind je alle verschillende documenten die op Arnhem toepassen
 
 Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
@@ -12,11 +12,11 @@ Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
 ## Officiële discord servers
 
-Eindhoven heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
+Arnhem heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Eindhoven RolePlay| Main discord server van Eindhoven | [Invite](https://discord.gg/ehrp) |
-|Eindhoven Support| Support discord server van Eindhoven | [Invite](https://discord.gg/rv4gWRSxcg) |
-|Eindhoven Onderwereld| Onderwereld discord server van Eindhoven | [Invite](https://discord.gg/DJnDmvmhZR) |
-|Eindhoven Overheid| Overheid discord server van Eindhoven | [Invite](https://discord.gg/vqnNmUYacC) |
+|Arnhem RolePlay| Main discord server van Arnhem | [Invite](https://discord.gg/ehrp) |
+|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/rv4gWRSxcg) |
+|Arnhem Onderwereld| Onderwereld discord server van Arnhem | [Invite](https://discord.gg/DJnDmvmhZR) |
+|Arnhem Overheid| Overheid discord server van Arnhem | [Invite](https://discord.gg/vqnNmUYacC) |
