@@ -10,7 +10,7 @@ extra:
 theme:
   language: nl
   name: material
-  logo: assets/Arnhem.png
+  logo: assets/arnhem.png
   favicon: assets/Arnhem.png
   features:
     - header.autohide
