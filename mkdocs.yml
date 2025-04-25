@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 site_name: Eindhoven - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
@@ -12,6 +13,22 @@ theme:
   name: material
   logo: assets/Eindhoven.png
   favicon: assets/Eindhoven.png
+=======
+site_name: Arnhem - Wet en Regels
+copyright: Deze website is mede mogelijk gemaakt door Raytrix
+# Repository
+repo_url: 'https://github.com/RaytrixDev/Arnhem-APV'
+repo_name: 'Arnhem-APV'
+extra:
+  social:
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/arnhem
+theme:
+  language: nl
+  name: material
+  logo: assets/arnhem.png
+  favicon: assets/Arnhem.png
+>>>>>>> 4408a848b85beb0a888ff6157b28e5dbfa069421
   features:
     - header.autohide
   palette: 
