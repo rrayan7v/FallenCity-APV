@@ -1,33 +1,33 @@
 <<<<<<< HEAD
-site_name: Eindhoven - Wet en Regels
+site_name: FallenCity - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
-repo_url: 'https://github.com/nickvmeurs/Eindhoven-APV'
-repo_name: 'Eindhoven-APV'
+repo_url: 'https://github.com/nickvmeurs/FallenCity-APV'
+repo_name: 'FallenCity-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/ehrp
+      link: https://discord.gg/Jx5XwrdCu3
 theme:
   language: nl
   name: material
-  logo: assets/Eindhoven.png
-  favicon: assets/Eindhoven.png
+  logo: assets/FallenCity.png
+  favicon: assets/FallenCity.png
 =======
-site_name: Arnhem - Wet en Regels
+site_name: FallenCity - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
-repo_url: 'https://github.com/RaytrixDev/Arnhem-APV'
-repo_name: 'Arnhem-APV'
+repo_url: 'https://github.com/RaytrixDev/FallenCity-APV'
+repo_name: 'FallenCity-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/arnhem
+      link: https://discord.gg/FallenCity
 theme:
   language: nl
   name: material
-  logo: assets/arnhem.png
-  favicon: assets/Arnhem.png
+  logo: assets/FallenCity.png
+  favicon: assets/FallenCity.png
 >>>>>>> 4408a848b85beb0a888ff6157b28e5dbfa069421
   features:
     - header.autohide

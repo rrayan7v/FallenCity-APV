@@ -1,8 +1,8 @@
 # Home
 
-## Wetboek en server regels Arnhem RP
+## Wetboek en server regels FallenCity RP
 
-In het menu aan de linkerkant vind je alle verschillende documenten die op Arnhem toepassen
+In het menu aan de linkerkant vind je alle verschillende documenten die op FallenCity toepassen
 
 Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
@@ -12,18 +12,18 @@ Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
 ## Officiële discord servers
 
-Arnhem heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
+FallenCity heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 <<<<<<< HEAD
-|Legacy RolePlay| Main discord server van Legacy | [Invite](https://discord.gg/ehrp) |
-|Legacy Support| Support discord server van Legacy | [Invite](https://discord.gg/ehrp) |
-|Legacy Onderwereld| Onderwereld discord server van Legacy | [Invite](https://discord.gg/ehrp) |
-|Legacy Overheid| Overheid discord server van Legacy | [Invite](https://discord.gg/ehrp) |
+|FallenCity RolePlay| Main discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
+|FallenCity Support| Support discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
+|FallenCity Onderwereld| Onderwereld discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
+|FallenCity Overheid| Overheid discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
 =======
-|Arnhem RolePlay| Main discord server van Arnhem | [Invite](https://discord.gg/arnhem) |
-|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/arnhem) |
-|Arnhem Onderwereld| Onderwereld discord server van Arnhem | [Invite](https://discord.gg/arnhem) |
-|Arnhem Overheid| Overheid discord server van Arnhem | [Invite](https://discord.gg/arnhem) |
+|FallenCity RolePlay| Main discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
+|FallenCity Support| Support discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
+|FallenCity Onderwereld| Onderwereld discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
+|FallenCity Overheid| Overheid discord server van FallenCity | [Invite](https://discord.gg/Jx5XwrdCu3) |
 >>>>>>> 4408a848b85beb0a888ff6157b28e5dbfa069421
